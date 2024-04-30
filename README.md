@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brodersen
-- 👀 I’m interested in iOS Development and Technical Interaction Design
-- 🌱 I’m currently learning Apple Technologies
-- 💞️ I’m looking to collaborate on projects that explore how we interact with technology
+- 👀 I’m passionate about design and development particularly within Apple's ecosystem
+- 🌱 I’m always learning Apple technologies, tools and frameworks
+- 💞️ I’m looking to collaborate on projects that explore how we interact with technology for the better
 - 📫 How to reach me? By [email](mailto:brodersen@me.com) or send me a PM on [LinkedIn](https://www.linkedin.com/in/gabrielbrodersen/)
 
 <!---
